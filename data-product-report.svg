@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio report card preview</title>
+  <desc id="desc">A comic-style project report card with metrics and skill highlights.</desc>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2" fill="#151515" opacity="0.14"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="520" fill="#ffbe0b"/>
+  <rect width="900" height="520" fill="url(#dots)"/>
+  <rect x="105" y="50" width="690" height="420" rx="8" fill="#fffdf7" stroke="#151515" stroke-width="10"/>
+  <text x="150" y="120" fill="#e63946" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">PROJECT REPORT</text>
+  <rect x="150" y="155" width="250" height="95" fill="#ffffff" stroke="#151515" stroke-width="6"/>
+  <rect x="500" y="155" width="145" height="245" fill="#2a9d8f" stroke="#151515" stroke-width="6"/>
+  <rect x="660" y="220" width="70" height="180" fill="#2563eb" stroke="#151515" stroke-width="6"/>
+  <text x="175" y="212" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900">A+</text>
+  <text x="250" y="211" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800">UX SCORE</text>
+  <rect x="150" y="290" width="295" height="26" fill="#151515"/>
+  <rect x="150" y="335" width="230" height="26" fill="#151515"/>
+  <rect x="150" y="380" width="270" height="26" fill="#151515"/>
+  <text x="520" y="445" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">DATA</text>
+  <text x="653" y="445" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">WEB</text>
+</svg>

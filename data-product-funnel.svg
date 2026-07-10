@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio contact funnel preview</title>
+  <desc id="desc">A comic-style funnel chart for visitor engagement and contact conversion.</desc>
+  <rect width="900" height="520" fill="#dff6f1"/>
+  <path d="M0 0 H900 V190 L0 480 Z" fill="#fffdf7"/>
+  <rect x="90" y="58" width="720" height="404" rx="8" fill="#ffffff" stroke="#151515" stroke-width="10"/>
+  <text x="135" y="120" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="900">CONTACT FUNNEL</text>
+  <path d="M165 165 H735 L660 245 H240 Z" fill="#e63946" stroke="#151515" stroke-width="7"/>
+  <path d="M245 260 H655 L595 335 H305 Z" fill="#ffbe0b" stroke="#151515" stroke-width="7"/>
+  <path d="M325 350 H575 L525 420 H375 Z" fill="#2a9d8f" stroke="#151515" stroke-width="7"/>
+  <text x="205" y="218" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">PROJECT VIEWS</text>
+  <text x="330" y="310" fill="#151515" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">CASE FILES</text>
+  <text x="390" y="398" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">CONTACT</text>
+</svg>
